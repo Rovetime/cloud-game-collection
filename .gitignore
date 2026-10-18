@@ -1,0 +1,6 @@
+
+# Local environment configuration
+.env.local
+.env
+node_modules/
+.expo/
